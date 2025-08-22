@@ -1,5 +1,6 @@
 #!/bin/bash
 
+x=a-b
 x=a+b+c
 a=12
 b=34
